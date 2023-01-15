@@ -86,20 +86,3 @@ Esses projetos foram desenvolvidos com base nos exercícios propostos do curso d
     #Clone o projeto
     $ git clone https://github.com/lucaspedrin/35_PythonProjects.git
 ```
-
-```bash 
-    #Entre no diretório
-    $ cd 35_PythonProjects
-```
-
-```bash
-    #Instale as dependências, caso use npm
-    $ npm install
-```
-
-<p align="center">ou</p>
-
-```bash
-    #Instale as dependências, caso use yarn
-    $ yarn
-```
